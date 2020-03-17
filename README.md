@@ -18,3 +18,6 @@
 * cargo doc --open
 * cargo run
 
+## Crates
+
+* [crates.io](https://www.crates.io)
